@@ -13,4 +13,4 @@ git add -A
 git commit -m 'deploy'
 
 
-git push -f https://github.com/nicodefun/todo-list-app.git master:gh-pages
+git push -f https://github.com/nicodefun/Todo-list-app.git master:gh-pages
